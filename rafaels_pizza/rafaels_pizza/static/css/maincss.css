@@ -1,0 +1,29 @@
+body{
+  background: #660e0e;
+}
+
+a{ color: #fac871 }
+
+#daily_special{
+  background: #eee;
+  box-shadow: 1px 1px 3px #333
+}
+
+.ds_elem{
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.menu_items{
+  color: #fff;
+  margin-top: 15px;
+}
+
+.menu_items_meta{
+  display: inline-block;
+  vertical-align: middle;
+}
+
+#daily_special a{ color: #000 }
+
+.meta_text{ padding: 20px}
